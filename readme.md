@@ -1,6 +1,15 @@
 # AlphaCoders Bulk Image Downloader
 
+<div align="center">
+
 This userscript allows you to bulk download images from AlphaCoders.com.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Greasy Fork Version](https://img.shields.io/greasyfork/v/565069?logo=greasyfork&color=%23670000)](https://greasyfork.org/fr/scripts/565069-alphacoders-bulk-image-downloader)
+[![GitHub Release](https://img.shields.io/github/v/release/AnytngV2/AlphaCoders-Bulk-Image-Downloader?logo=github)](https://github.com/AnytngV2/AlphaCoders-Bulk-Image-Downloader/releases/latest)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/AnytngV2/AlphaCoders-Bulk-Image-Downloader?logo=github)](https://github.com/AnytngV2/AlphaCoders-Bulk-Image-Downloader/commits/main)
+
+</div>
 
 ## Installation
 
@@ -45,4 +54,3 @@ You can modify the `CONFIG` object in the script to adjust:
 - Make sure to comply with AlphaCoders' terms of service.
 
 - The script only works on pages that match the `@match` directives in the userscript header.
-
