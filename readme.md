@@ -13,7 +13,7 @@ This userscript allows you to bulk download images from AlphaCoders.com.
 
 ### Option 2: Manual Injection
 
-1. Navigate to an AlphaCoders page with wallpapers (e.g., https://alphacoders.com/wallpapers).
+1. Navigate to an AlphaCoders page with wallpapers (e.g., https://wall.alphacoders.com/).
 2. Open your browser's developer console (F12 or right-click > Inspect > Console).
 3. Copy and paste the entire contents of `script.js` into the console.
 4. Press Enter to execute the script.
@@ -37,4 +37,5 @@ You can modify the `CONFIG` object in the script to adjust:
 
 - This script respects the site's rate limits by adding delays between downloads.
 - Make sure to comply with AlphaCoders' terms of service.
+
 - The script only works on pages that match the `@match` directives in the userscript header.
