@@ -18,6 +18,12 @@ This userscript allows you to bulk download images from AlphaCoders.com.
 3. Copy and paste the entire contents of `script.js` into the console.
 4. Press Enter to execute the script.
 
+### Option 3: Using Greasy Fork
+
+1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/).
+2. Visit the script page on [Greasy Fork](https://greasyfork.org/fr/scripts/565069-alphacoders-bulk-image-downloader) and search for "Zerochan instant image downloader".
+3. Click the "Install" button on the script page.
+
 ## Usage
 
 1. On an AlphaCoders wallpapers page, a floating "Download All Images" button will appear in the bottom-right corner.
@@ -39,3 +45,4 @@ You can modify the `CONFIG` object in the script to adjust:
 - Make sure to comply with AlphaCoders' terms of service.
 
 - The script only works on pages that match the `@match` directives in the userscript header.
+
